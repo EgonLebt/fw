@@ -1,4 +1,4 @@
-# H1 AlarmLogger
+# AlarmLogger
 
 Testversion schreibt alle empfangenen Argumente in eine Textdatei mit Zeitstempel und PID.
 
