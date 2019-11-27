@@ -8,4 +8,6 @@ Entwicklungsumgebung:
 https://dotnet.microsoft.com/download
 
 Erzeugen eines self-contained Releases:
+```
 dotnet publish -c Release -r win81-x64 --self-contained true
+```
